@@ -1,0 +1,6 @@
+enrollment_id,student_id,course_id,semester,grade
+E01,101,C101,Spring,A
+E02,102,C102,Fall,B
+E03,103,C103,Spring,A-
+E04,104,C104,Fall,B+
+E05,105,C105,Spring,A
