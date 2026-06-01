@@ -1,6 +1,6 @@
 course_id,course_name,department,credits
-C101,Data Structures,Computer Science,3
-C102,Quantum Physics,Physics,4
-C103,Calculus I,Mathematics,3
-C104,Organic Chemistry,Chemistry,4
-C105,Genetics,Biology,3
+C101,data structures,computer science,3
+C102,quantum physics,physics,4
+C103,calculus i,mathematics,3
+C104,organic chemistry,chemistry,4
+C105,genetics,biology,3
